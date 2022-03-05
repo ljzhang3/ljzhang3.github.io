@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lijin Zhang</title>
+    <link>https://zhanglj37.github.io/</link>
+    <description>Recent content on Lijin Zhang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://zhanglj37.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>https://zhanglj37.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhanglj37.github.io/about/</guid>
+      <description>.intro{ float:right; width:65%; } .photo{ float:left; width:30%; } .center{ text-align: center; justify-content: center; }      Welcome to my website! I will be joining the Developmental and Psychological Science Ph.D. Program at Stanford in fall, 2022. So excited to start my research journey with Prof. Ben Domingue and Prof. Jason Yeatman! Prior to Stanford, I have been very fortunate to work with Prof. Junhao Pan, Prof.</description>
+    </item>
+    
+  </channel>
+</rss>
